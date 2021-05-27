@@ -1,0 +1,117 @@
+body {
+    background-color: beige;
+    margin: 0 10%;
+    padding: 0;
+    font-family: cursive;
+}
+
+.container {
+    border: 3px solid darkslategray;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.color-red {
+    background-color: #ff0000;
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0px 7px;
+}
+
+.color-yellow {
+    background-color: #ffff00;
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0px 7px;
+}
+
+.color-blue {
+    background-color: #0000ff;
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0px 7px;
+}
+
+.color-orange {
+    background-color: #ffa500;
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0px 7px;
+}
+
+.color-green {
+    background-color: #00ff00;
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0px 7px;
+}
+
+.color-violet {
+    background-color: #ee82ee;
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0px 7px;
+}
+
+.color-panel {
+    text-align: center;
+}
+
+div {
+    display: block;
+}
+
+.kalam {
+    font-family: 'kalam';
+}
+
+.mountains_of_christmas {
+    font-family: 'mountains of christmas';
+}
+
+.merienda {
+    font-family: 'merienda';
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    scroll-margin-inline-end: 0px;
+}
+
+.light {
+    font-weight: 300;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 700;
+}
